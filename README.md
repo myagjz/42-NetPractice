@@ -1,5 +1,3 @@
-# NetPractice
-
 <h1 align=center>
 	<b>Net_Practice</b>
 </h1>
