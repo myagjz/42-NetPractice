@@ -2,10 +2,6 @@
 	<b>Net_Practice</b>
 </h1>
 
-<h2 align=center>
-
-</h2>
-
 <p align=center>
 	The <b>net_practice</b> project is our first networking related project in 42 curriculum. It consists in 10 exercises in which we should configure different small-scale networks into communicating with each other - all of them using the concepts learnt about TCP/IP addressing.
 </p>
