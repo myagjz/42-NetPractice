@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align=center>
-	<i>42cursus' project #10</i>
+
 </h2>
 
 <p align=center>
