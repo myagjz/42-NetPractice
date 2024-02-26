@@ -11,7 +11,7 @@
 <h2>
 	Final score
 </h2>
-<img height="125" width="125" src=https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/100%2B.png alt="myagjz's 42Project Score"/>
+<img height="200" width="200" src=https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/Point/100%2B.png alt="myagjz's 42Project Score"/>
 <h4>Completed</h4>
 <img src=https://github.com/myagjz/myagjz/blob/main/42-Project-Badges/netpracticem.png alt="myagjz's 42Project Badge"/>
 </div>
